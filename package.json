@@ -20,5 +20,9 @@
   "homepage": "https://github.com/ItsmeCaptain1/Full-Stack-React-Specialization-Course#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0"
   }
 }
